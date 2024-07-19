@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **Data structures and Algorithms using JAVA**
 
+- 👨‍💻 All of my projects are available at [Satish1433kumar.github.io](Satish1433kumar.github.io)
+
+- 📝 I regularly practice DSA problems [https://github.com/PABBATHI-SATISH-KUMAR/LeetCode](https://github.com/PABBATHI-SATISH-KUMAR/LeetCode)
+
 - 📫 How to reach me **pabbathisatishkumar@gmail.com**
 
 - ⚡ Fun fact **I am Funny and collaborative**
