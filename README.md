@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabbathi-satish-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="pabbathi-satish-kumar" /> </p>
 
-- 🔭 I’m currently working on **Heart Disease Prediction Project**
+- 🔭 I’m currently working on **DATA SCIENCE AND ARTIFICIAL INTELLIGENCE**
 
-- 🌱 I’m currently learning **Data structures and Algorithms using JAVA**
+- 🌱 I’m currently learning **Data structures and Algorithms AND EXPLORING DATA**
 
 - 👨‍💻 All of my works are available at [https://github.com/PABBATHI-SATISH-KUMAR?tab=repositories](https://github.com/PABBATHI-SATISH-KUMAR?tab=repositories)
 
